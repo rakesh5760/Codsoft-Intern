@@ -1,0 +1,156 @@
+html{
+    height:11.7in ;
+    width: 8.3in;
+    box-shadow: 5px 5px 200px  black;
+   background-image: url("https://i.ibb.co/SfKv4Jz/Untitled-design-2-page-0001.jpg");
+   background-blend-mode: soft-light;
+   background-repeat: no-repeat;
+   background-size: cover;
+    margin-left: 22%;
+    margin-right: 20%;
+    place-content: center;
+}
+.head-bg{
+    height: 12vh;
+    width: cover;
+   
+    margin-top: 10px;
+    font-size: 50px;
+    font-weight: bold;
+    align-content: center;
+    text-align: center;
+}
+.head-img{
+    height: 12vh;
+    width: auto;
+}
+.accounts{
+    height: 7vh;
+    width: cover;
+   background-color: rgba(2, 2, 2, 0.556);
+   color: aliceblue;
+    margin-top: 10px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    padding-left: 35px;
+    padding-right: 35px;
+    align-content: center;
+    
+}
+.head-bottom{
+    height: 30vh;
+    width: cover;
+    
+    margin-top: 10px;
+    display: flex;
+    flex-wrap: wrap;
+    padding-bottom: 25px;
+}
+.head-bottom-left{
+    width: 60%;
+    height: auto;
+    text-align: center;
+    place-content: center;
+    font-family: 'Times New Roman', Times, serif;
+}
+.head-bottom-right{
+    height: auto;
+    width: 40%;
+}
+.g-image{
+    height: 35vh;
+    width: 38vh;
+    padding-bottom: 25px;
+    
+    
+}
+.center-page{
+    height: 35vh;
+    width: cover;
+    
+    margin-top: 10px;
+    display: flex;
+    flex-wrap: wrap;
+    align-content: center;
+    justify-content: center;
+}
+.tech{
+    background-color: rgba(0, 255, 255, 0.185);
+    height: 35vh;
+    width: 25vh;
+    margin-right: 5px;
+    border: 3px solid white;
+    border-radius: 8px;
+    align-content: center;
+    text-align: center;
+}
+.non-tech{
+    background-color: rgba(0, 255, 255, 0.144);
+    height: 35vh;
+    width: 25vh;
+    margin-right: 5px;
+    border: 3px solid white;
+    border-radius: 8px;
+    align-content: center;
+    text-align: center;
+}
+.experience{
+    background-color: rgba(0, 255, 255, 0.134);
+    height: 35vh;
+    width: 25vh;
+    margin-right: 5px;
+    border: 3px solid white; 
+    border-radius: 8px;
+    align-content: center;
+    text-align: center;
+}
+.process{
+    background-color: rgba(0, 255, 255, 0.136);
+    height: 35vh;
+    width: 25vh;
+    margin-right: 5px;
+    border: 3px solid white; 
+    border-radius: 8px;
+    align-content: center;
+    text-align: center;
+}
+
+
+
+
+
+
+
+.bottom-top{
+    height: 30vh;
+    width: cover;
+    background-color: rgba(206, 23, 188, 0.44);
+    border-radius: 8px;
+    margin-top: 10px;
+    display: flex;
+    flex-wrap: wrap;
+    align-content: center;
+    justify-content: space-between;
+    padding-left: 50px;
+    padding-right: 50px;
+}
+
+.img-1{
+    height: 25vh;
+    width: 27vh;
+}
+.img-2{
+    height: 25vh;
+    width: 30vh;
+}
+.bottom{
+    height: 8vh;
+    width: cover;
+    background-color: rgb(0, 0, 0);
+    margin-top: 10px;
+    align-content: center;
+    text-align: center;
+    color: aliceblue;
+
+}
